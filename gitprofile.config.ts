@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'grace-rodrigues',
     x: '',
     mastodon: '',
     researchGate: '',
@@ -65,7 +65,7 @@ const CONFIG = {
     instagram: '',
     reddit: '',
     threads: '',
-    youtube: '', '
+    youtube: '', 
     udemy: '',
     dribbble: '',
     behance: '',
@@ -74,13 +74,13 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: '',
-    phone: '',
+    website: 'https://grodrigues-1.github.io/',
+    phone: '209-988-2903',
     email: 'grace.m@rodriguesfam.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/grodrigues-1/grodrigues-1.github.io/raw/main/DemoCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
