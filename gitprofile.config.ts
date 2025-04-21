@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'grace-rodrigues',
+    linkedin: 'grace-rodrigues-653b8b202',
     x: '',
     mastodon: '',
     researchGate: '',
