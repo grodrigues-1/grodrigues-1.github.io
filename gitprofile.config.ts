@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Ecology Presentation',
           description:
-            'Saving the Monarch Butterflies' Abies Religiosas',
+            'Saving the Monarch Butterflies Abies Religiosas',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'file:///Users/gracemrodrigues/Downloads/Ecology%20Presentation.pdf',
