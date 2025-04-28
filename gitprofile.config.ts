@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Discovering Unknown Dipeptides',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://share.icloud.com/photos/06es-Xd0LQGsg-dX4mnneVF5A',
           link: 'file:///Users/gracemrodrigues/Downloads/Ochem%202%20pres.pptx.pdf',
         },
       ],
