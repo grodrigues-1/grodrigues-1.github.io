@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Saving Abies Religiosas for the Monarch Butterflies',
           imageUrl:
-            'https://github.com/grodrigues-1/grodrigues-1.github.io/blob/main/Screenshotcompressed.pdf',
+            'https://github.com/grodrigues-1/grodrigues-1.github.io/raw/main/ecologypres.png',
           link: 'https://github.com/grodrigues-1/grodrigues-1.github.io/blob/main/Ecology%20Presentation.pdf',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Discovering Unknown Dipeptides',
           imageUrl:
-            'https://github.com/grodrigues-1/grodrigues-1.github.io/raw/main/compressed.pdf',
+            'https://github.com/grodrigues-1/grodrigues-1.github.io/raw/main/ochempres.png',
           link: 'https://github.com/grodrigues-1/grodrigues-1.github.io/raw/main/Ochem%202%20pres.pptx.pdf',
         },
       ],
