@@ -37,16 +37,16 @@ const CONFIG = {
           description:
             'Saving Abies Religiosas for the Monarch Butterflies',
           imageUrl:
-            'https://share.icloud.com/photos/00dDMEagGQxSlnmCzpTz8c5wg',
-          link: 'file:///Users/gracemrodrigues/Downloads/Ecology%20Presentation.pdf',
+            'https://github.com/grodrigues-1/grodrigues-1.github.io/blob/main/Screenshotcompressed.pdf',
+          link: 'https://github.com/grodrigues-1/grodrigues-1.github.io/blob/main/Ecology%20Presentation.pdf',
         },
         {
           title: 'Organic Chemistry Presentation',
           description:
             'Discovering Unknown Dipeptides',
           imageUrl:
-            'https://share.icloud.com/photos/06es-Xd0LQGsg-dX4mnneVF5A',
-          link: 'file:///Users/gracemrodrigues/Downloads/Ochem%202%20pres.pptx.pdf',
+            'https://github.com/grodrigues-1/grodrigues-1.github.io/raw/main/compressed.pdf',
+          link: 'https://github.com/grodrigues-1/grodrigues-1.github.io/raw/main/Ochem%202%20pres.pptx.pdf',
         },
       ],
     },
