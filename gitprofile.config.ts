@@ -134,7 +134,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'Microbiology Resource Announcement',
       authors: 'Analisa Coppens, Isabella Fregoso, Rachel Haakma, Kimberly Habon, Grace Rodrigues, Tricia Van Laar',
-      link: 'https://example.com',
+      link: 'https://github.com/grodrigues-1/grodrigues-1.github.io/raw/main/MRA_template_prokaryotic-eukaryotic_genome%20(1).pdf',
       description:
         'This is a manuscript in submission, where we reported the draft genome sequence of Chryseobacterium treverense, isolated from human clinical sources.',
     },
