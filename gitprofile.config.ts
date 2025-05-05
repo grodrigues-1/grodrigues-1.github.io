@@ -136,8 +136,7 @@ const CONFIG = {
       authors: 'Analisa Coppens, Isabella Fregoso, Rachel Haakma, Kimberly Habon, Grace Rodrigues, Tricia Van Laar',
       link: 'https://example.com',
       description:
-        'This is a manuscript in submission, where we reported the draft genome sequence of Chryseobacterium treverense, isolated from human clinical
-sources.',
+        'This is a manuscript in submission, where we reported the draft genome sequence of Chryseobacterium treverense, isolated from human clinical sources.',
     },
     {
       title: 'Publication Title',
